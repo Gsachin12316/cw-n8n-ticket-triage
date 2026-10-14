@@ -1,0 +1,7 @@
+# n8n local data and anything that may hold secrets
+.n8n/
+*.env
+.env*
+credentials*.json
+*decrypted*
+node_modules/
